@@ -1,1 +1,1 @@
-# Algorithms
+Install all the requirements, python and all of it's intergrated libraries. Then clone or download the repo. After all of that you need to go directly to test.py, where you'll find all the algorithms and, if you want, you can explore all of he algorithms and see how they work. 
