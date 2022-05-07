@@ -3,7 +3,7 @@ Calculate the sum of the rest of the first N natural number,
 using recursion
 '''
 import sys
-sys.setrecursionlimit(2000) #permite ir más arriba del límite
+sys.setrecursionlimit(2000)
 
 
 def sum_of_n(n_param):
